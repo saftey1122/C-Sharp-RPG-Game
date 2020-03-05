@@ -1,0 +1,7 @@
+C:\Users\Jordan\source\repos\RPG Game IMPROVED\RPG Game Improved\bin\Debug\RPG Game Improved.exe.config
+C:\Users\Jordan\source\repos\RPG Game IMPROVED\RPG Game Improved\bin\Debug\RPG Game Improved.exe
+C:\Users\Jordan\source\repos\RPG Game IMPROVED\RPG Game Improved\bin\Debug\RPG Game Improved.pdb
+C:\Users\Jordan\source\repos\RPG Game IMPROVED\RPG Game Improved\obj\Debug\RPG Game Improved.csprojAssemblyReference.cache
+C:\Users\Jordan\source\repos\RPG Game IMPROVED\RPG Game Improved\obj\Debug\RPG Game Improved.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\RPG Game IMPROVED\RPG Game Improved\obj\Debug\RPG Game Improved.exe
+C:\Users\Jordan\source\repos\RPG Game IMPROVED\RPG Game Improved\obj\Debug\RPG Game Improved.pdb
